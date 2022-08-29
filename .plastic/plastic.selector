@@ -1,0 +1,3 @@
+rep "YamiFlyBypass@Yami_Work_Space@cloud"
+  path "/"
+    smartbranch "/main"
